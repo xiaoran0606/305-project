@@ -1,7 +1,8 @@
 # Modeling Latent COVID-19 Dynamics with Socioeconomic and Demographic Covariate
 
 ## Data: 
-- [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data)
+- [Download data](https://docs.owid.io/projects/etl/api/covid/#download-data)
+- [Data description](https://github.com/owid/covid-19-data/tree/master/public/data)
 
 ## Reference papers:
 - [Forecasting COVID-19 new cases using deep learning methods](https://www.sciencedirect.com/science/article/pii/S0010482522001342)
