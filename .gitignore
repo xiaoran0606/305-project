@@ -12,13 +12,12 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Output files (optional)
+# Output files
 output/
 logs/
 
 # OS files
 .DS_Store
 
-# Data set
-covid.csv
+# Dataset
 covid.csv
