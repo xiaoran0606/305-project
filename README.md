@@ -14,7 +14,7 @@
 - [Estimating global, regional, and national daily and cumulative infections with SARS-CoV-2 through Nov 14, 2021: a statistical analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00484-6/fulltext)
     - Justify how the number of deaths attributed to COVID-19 can be corrected using the excess mortality rate.
     - Basic idea: excess mortality rate -> counterfactual excess mortality rate due to COVID-19 -> corrected total COVID-19 deaths.
-    - Note: estimating the counterfactual excess mortality rate requires referring to another [statistical prediction model for excess mortality](https://www.thelancet.com/article/S0140-6736(21)02796-3/fulltext). Here, we adopt [a cruder approach as an approximation](https://pubmed.ncbi.nlm.nih.gov/34190045/) of that idea.
+    - Note: estimating the counterfactual excess mortality rate requires referring to another [statistical prediction model for excess mortality](https://www.thelancet.com/article/S0140-6736(21)02796-3/fulltext). Here, we adopt [a cruder approach as an approximation](https://pubmed.ncbi.nlm.nih.gov/341 90045/) of that idea.
 - [Estimating global, regional, and national daily and cumulative infections with SARS-CoV-2 through Nov 14, 2021: a statistical analysis](https://pubmed.ncbi.nlm.nih.gov/35405084/)
     - Estimate of IDR
 
