@@ -20,5 +20,5 @@ logs/
 .DS_Store
 
 # Dataset
-covid.csv
+compact.csv
 owid-covid-data.csv
