@@ -20,4 +20,5 @@ logs/
 .DS_Store
 
 # Dataset
-data/
+data/*
+!data/block_cov.csv/
