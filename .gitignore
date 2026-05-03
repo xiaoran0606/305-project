@@ -21,4 +21,4 @@ logs/
 
 # Dataset
 data/*
-!data/block_cov.csv/
+!data/block_cov.csv
