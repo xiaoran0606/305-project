@@ -21,5 +21,6 @@ logs/
 
 # Dataset
 data/*
+archive/
 !data/block_cov.csv
 !data/covid.csv
