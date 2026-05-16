@@ -22,5 +22,5 @@ logs/
 # Dataset
 data/*
 archive/
-!data/block_cov.csv
-!data/covid.csv
+!data/block_cov_seasonal.csv
+!data/covid_seasonal.csv
