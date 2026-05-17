@@ -24,3 +24,4 @@ data/*
 archive/
 !data/block_cov_seasonal.csv
 !data/covid_seasonal.csv
+!data/R_posterior_summary_seasonal.csv
